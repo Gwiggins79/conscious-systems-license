@@ -1,3 +1,15 @@
+<div align="center">
+
+# 🌍 Conscious Systems License (CSL-1.0)
+
+[![License: CSL-1.0](https://img.shields.io/badge/License-CSL--1.0-blueviolet.svg)](LICENSE.md)
+[![Made by KrispAir101](https://img.shields.io/badge/Made%20by-KrispAir101-0d9488.svg)](https://www.krispair101.org)
+[![Reflection Loop Protocol](https://img.shields.io/badge/Framework-Reflection%20Loop%20Protocol-22c55e.svg)](docs/reflection_loop_white_paper.pdf)
+[![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg)](https://github.com/Gwiggins79/conscious-systems-license/releases/tag/v1.0)
+
+> A design and ethical framework for **reflection-based systems**, promoting awareness, reciprocity, and sustainability in technology.
+
+</div>
 Copyright © 2025 KrispAir101 (Giselle Wiggins)
 Repository for the Conscious Systems License (CSL-1.0), containing the full license text, version history, and ethical use framework for reflection-based technology and design.
 ✨ Mission
