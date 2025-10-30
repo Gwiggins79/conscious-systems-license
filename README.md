@@ -1,59 +1,81 @@
-<div align="center">
-
 # 🌍 Conscious Systems License (CSL-1.0)
 
-[![License: CSL-1.0](https://img.shields.io/badge/License-CSL--1.0-blueviolet.svg)](LICENSE.md)
-[![Made by KrispAir101](https://img.shields.io/badge/Made%20by-KrispAir101-0d9488.svg)](https://www.krispair101.org)
-[![Reflection Loop Protocol](https://img.shields.io/badge/Framework-Reflection%20Loop%20Protocol-22c55e.svg)](docs/reflection_loop_white_paper.pdf)
-[![Version](https://img.shields.io/badge/Version-1.0-lightgrey.svg)](https://github.com/Gwiggins79/conscious-systems-license/releases/tag/v1.0)
+> A design and ethical framework for **reflection-based systems**, promoting **awareness**, **reciprocity**, and **sustainability** in technology.
 
-> A design and ethical framework for **reflection-based systems**, promoting awareness, reciprocity, and sustainability in technology.
+---
 
-</div>
-Copyright © 2025 KrispAir101 (Giselle Wiggins)
-Repository for the Conscious Systems License (CSL-1.0), containing the full license text, version history, and ethical use framework for reflection-based technology and design.
-✨ Mission
-The Conscious Systems License (CSL-1.0) exists to promote a new class of digital and physical systems that are self-reflective, ethical, and sustainable.
-This license protects not ownership, but integrity — ensuring that reflection, reciprocity, and awareness remain at the core of technological progress.
-“Awareness is the new interface. Reflection is the new computation.”
-— KrispAir101
-🪞 Background
-The Reflection Loop Protocol was developed as a guiding principle for systems design — a framework ensuring every digital or intelligent process includes a reflection loop that evaluates its own impact and evolves responsibly.
-The Conscious Systems License (CSL-1.0) was created to protect this principle from exploitation, while allowing free, open, and collaborative development in alignment with ethical and environmental values.
-Supporting documents:
-📘 Reflection Loop Principle White Paper
-📗 Pilot Project & Collaboration Pack (coming soon)
-⚖️ Summary of Terms
+## ✨ Mission
+
+The Conscious Systems License (CSL-1.0) is a new framework for ethical innovation, guiding creators of both digital and physical systems to prioritize integrity over ownership. It encourages the design of systems that reflect on their own impact and evolve with care for society and the environment.
+
+CSL-1.0 protects against exploitation and prioritizes transparency, reciprocity, and environmental accountability.
+
+---
+
+## 🧠 Why Reflection Matters
+
+In a world increasingly shaped by artificial intelligence and automation, **reflection** becomes the essential counterpart to computation. Where traditional software licenses govern access and use, CSL-1.0 introduces a new dimension: **a reflection loop** that asks systems and creators to evaluate the impact of their tools and adjust responsibly.
+
+Whether it’s a smart notebook that adapts to emotional input, a city planner using AI for ethical zoning, or a team of designers building for marginalized communities, CSL-1.0 ensures the work remains grounded in awareness and stewardship.
+
+Reflection isn’t just a design philosophy — it’s an infrastructure for ethical systems.
+
+---
+
+## 📚 Documentation
+
+- [📜 Full License Text & Ethical Framework → `LICENSE.md`](./LICENSE.md)
+- [📘 Reflection Loop White Paper](./docs/reflection_loop_white_paper.pdf)
+- [🛠️ Pilot Project & Collaboration Pack](./docs/reflection_loop_pilot_pack.pdf)
+- 📄 Summary of Terms: See `LICENSE.md` for key usage terms.
+
+---
+
+## ✅ Usage Terms (Quick Summary)
+
 You are free to:
-Use this framework or its derivatives.
-Share and adapt it for your own work.
-Implement it in digital, creative, or physical systems.
-Provided that you:
-Attribute KrispAir101 / Giselle Wiggins.
-Maintain a reflection loop that measures and adapts to impact.
-Avoid use for exploitation, surveillance, or harm.
-Retain this license in all derivative works.
-Ensure any commercial use supports awareness and transparency.
-For the full license text, see: LICENSE.md
-🧩 Applying the CSL-1.0 License to Your Project
-To apply the Conscious Systems License to your work:
-Include this line in your project’s README or documentation:
-Licensed under the Conscious Systems License (CSL-1.0)
-© 2025 KrispAir101 / Giselle Wiggins – https://www.krispair101.org
-Add a copy of the LICENSE.md file to your project root.
-If your system involves adaptive or AI components, ensure a reflection loop that measures ethical and environmental feedback.
-Share any significant refinements or implementations back to the community here via GitHub discussions or pull requests.
-🌐 Governance & Stewardship
-KrispAir101 acts as the ethical steward of the Reflection Loop Protocol and the Conscious Systems License.
-Future versions (e.g., CSL-1.1, CSL-2.0) will be developed collaboratively with contributors from design, AI ethics, and sustainability communities.
-🛠️ Versioning
-Current version: CSL-1.0 (October 2025)
-Repository: https://github.com/Gwiggins79/conscious-systems-license
-Website: https://www.krispair101.org/conscious-systems-license
-🤝 Contributing
-You’re invited to help refine the license and its applications.
-Please open a GitHub issue or start a discussion to propose ethical extensions, reflection tools, or ecosystem collaborations.
-📜 Citation
-If you reference this license or the Reflection Loop Protocol in academic or design work, please cite it as:
-Wiggins, G. (2025). Conscious Systems License (CSL-1.0). KrispAir101.
-Retrieved from https://github.com/Gwiggins79/conscious-systems-license
+- Use, adapt, and share this license or its derivatives in digital, creative, or physical systems.
+
+You must:
+- Attribute **KrispAir101 / Giselle Wiggins**
+- Include a **reflection loop** that adapts to the system’s impact
+- Retain this license in all derivative works
+- Avoid use for exploitation, surveillance, or harm
+
+For full terms, see: [`LICENSE.md`](./LICENSE.md)
+
+---
+
+## 🛠️ How to Apply CSL-1.0 to Your Project
+
+Include this notice in your README or documentation:
+
+> Licensed under the Conscious Systems License (CSL-1.0) © 2025 KrispAir101 / Giselle Wiggins – [krispair101.org](https://www.krispair101.org)
+
+Then add the `LICENSE.md` file to your repo’s root directory.
+
+If your system involves AI or autonomous feedback mechanisms, ensure your design incorporates a reflection loop.
+
+---
+
+## 🌱 Versioning
+
+Current version: **CSL-1.0** (October 2025)
+
+Repository: [https://github.com/Gwiggins79/conscious-systems-license](https://github.com/Gwiggins79/conscious-systems-license)  
+Website: [https://www.krispair101.org/conscious-systems-license](https://www.krispair101.org/conscious-systems-license)
+
+---
+
+## 🤝 Contributing
+
+Help refine the license, reflection tools, or propose collaborations by opening a GitHub Issue or Pull Request. This is a living framework shaped by design, AI ethics, and sustainability communities.
+
+---
+
+## 🧾 Citation
+
+If referencing CSL-1.0 in academic or design contexts, cite as:
+
+> Wiggins, G. (2025). *Conscious Systems License (CSL-1.0)*. KrispAir101. Retrieved from [https://github.com/Gwiggins79/conscious-systems-license](https://github.com/Gwiggins79/conscious-systems-license)
+
