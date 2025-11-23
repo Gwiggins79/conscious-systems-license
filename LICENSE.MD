@@ -23,6 +23,8 @@ For example:
 - A hardware product that tracks energy consumption and notifies users of its lifecycle impact.
 - A digital story engine that rewrites its own narrative logic to avoid harmful tropes.
 
+To make the loop cumulative (not just episodic), systems should store past reflections in a persistent log and surface the most relevant entries as context in subsequent prompts or decisions. Reading prior reflections before acting (and writing new ones afterward) creates “true memory recall,” ensuring each iteration is grounded in historical insight.
+
 The CSL requires that all implementations — especially commercial ones — include **feedback mechanisms** for ethical and environmental awareness. This is not just a license, it’s a living loop.
 
 ## 📚 Background
