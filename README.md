@@ -56,6 +56,17 @@ Then add the `LICENSE.md` file to your repo’s root directory.
 
 If your system involves AI or autonomous feedback mechanisms, ensure your design incorporates a reflection loop.
 
+### Adding true memory recall to your reflection loop
+
+To keep reflection actionable, store past reflections in a structured log (e.g., JSONL, database, or vector store), retrieve the most relevant entries for the current task, and include them directly in the prompt. A minimal loop:
+
+1. **Log** each reflection with timestamp, context, and outcomes.
+2. **Recall** by querying the log for semantically related reflections (keyword or embedding search).
+3. **Prompt** by injecting the retrieved reflections into the model’s instructions before acting.
+4. **Update** the log with new reflections so the loop compounds over time.
+
+This “true memory recall” ensures reflection is cumulative instead of single-use, grounding each decision in prior learnings.
+
 ---
 
 ## 🌱 Versioning
